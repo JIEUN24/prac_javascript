@@ -28,7 +28,7 @@ const distance = 2
 if (distance < 2) {
     console.log('걸어가자')
 } else if (2 <= distance < 5) {
-    console.log('택시를 탑시다')
+    console.log('택시를 타요')
 } else {
     console.log('기차를 탑시다')
 }

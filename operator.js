@@ -4,8 +4,8 @@ console.log(1 + 3)
 
 //템플릿 리터럴
 const shoesPrice = 30000
-console.log('이 신발의 가격은' + shoesPrice + '원 입니다!')
-console.log(`이 신발의 가격은 ${shoesPrice}원 입니다!`)
+console.log('이 신발의 가격은' + shoesPrice + '원 입니다.')
+console.log(`이 신발의 가격은 ${shoesPrice}원 입니다.`)
 
 //산술 연산자
 console.log(2 + 1) //3
