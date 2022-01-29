@@ -32,7 +32,7 @@ for (const color of rainbowColors) {
 }
 
 
-//배열 안의 가격 합계와 평균 구하기
+//배열 안의 가격 합계와 평균을 구해라
 const priceList = [3000, 2000, 1500, 4500, 9000, 9050, 4700, 5700, 2300, 1030]
 let sum = 0
 
