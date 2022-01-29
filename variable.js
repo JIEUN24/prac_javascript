@@ -4,7 +4,7 @@ console.log(a, b)
 
 const c = 2022
 const d = 01
-const e = 25
+const e = 29
 console.log(c, d, e)
 
 
